@@ -2,4 +2,4 @@
  NetCore with MongoDB
  
 # Description
-Bu proje Net Core ve MongoDB aracılığı ile hazırlanmıştır. Kurulum açısından ekstra bir şey yapmanıza gerek yok. Tek yapmanız gereken bu projeyi kendinize almanız ve çalıştırmanız. Bu proje MongoDB mentalitesine uygun bir şekilde hazırlanmıştır göründüğünden basit olması bu yüzdendir dikkate almanızı umuyorum. İyi günler
+This project has been prepared using Net Core and MongoDB. You don't need to do anything extra in terms of installation. All you have to do is get this project yourself and run it. This project has been prepared in accordance with the MongoDB mentality, since it looks simple, I hope you take it into consideration. have a nice day
